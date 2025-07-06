@@ -1,6 +1,6 @@
 # Bloodbank and Donor Management System
 
-![Repo Size](https://img.shields.io/github/repo-size/whoisdmathz/capstone-m-2025-pharmacy-bidding.svg)
+![Repo Size](https://img.shields.io/github/repo-size/whoisdmathz/capstone-ug-2021-bloodbank-management-system.svg)
 
 Bloodbank and Donor Management System is a multi-role web application designed to streamline blood donation processes, donor management, and blood stock tracking.
 
