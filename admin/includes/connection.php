@@ -1,6 +1,6 @@
 <?php
 
-$db = new mysqli("localhost", "dmathz", "D@2022", "bdms", 3307);
+$db = new mysqli("localhost", "username", "password", "bdms", 3306);
 
 session_start();
 

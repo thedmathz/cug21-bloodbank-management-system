@@ -1,7 +1,6 @@
 <?php
 
-// $db = new mysqli("127.0.0.1", "u550545620_bbdms", "Bbdms2022", "u550545620_bbdms");
-$db = new mysqli("localhost", "dmathz", "D@2022", "bdms", 3307);
+$db = new mysqli("localhost", "username", "password", "bdms", 3306);
 $prospect_id  = mysqli_real_escape_string($db, trim($_GET['prospect_id']));
 
 $genders  = array('', 'Male', 'Female');
