@@ -1,5 +1,7 @@
 # Bloodbank and Donor Management System
 
+![Repo Size](https://img.shields.io/github/repo-size/whoisdmathz/cug21-bloodbank-management-system.svg)
+
 Bloodbank and Donor Management System is a multi-role web application designed to streamline blood donation processes, donor management, and blood stock tracking.
 
 ### Donor
